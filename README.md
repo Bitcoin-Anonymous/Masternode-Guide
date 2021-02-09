@@ -1,0 +1,1 @@
+# Bitcoin Anonymous  Masternode Guide
