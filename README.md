@@ -1,4 +1,4 @@
-Bitcoin Anonymous Advance CLI Masternode Setup Guide
+Bitcoin Anonymous Advanced CLI Masternode Setup Guide
 ==========================
 
 ## Introduction
