@@ -204,7 +204,7 @@ btca-cli startmasternode local false
 **Step 5:** Use the following command to check status:
 
 ```
-btca-cli masternode status
+btca-cli getmasternodestatus
 ```
 
 You should see something like:
